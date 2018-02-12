@@ -1,0 +1,30 @@
+---
+layout: post
+published: true
+title: WSL
+author: lulu
+author_login: lulu
+author_email: 4mg@outlook.com
+author_url: http://ed.usphere.net/
+categories: general
+---
+
+Who needs dual boot when WSL is so convenient?!
+
+
+
+[1]: <https://calibre-ebook.com/about> "About Calibre"
+[2]: <http://business.eircom.net/media/modem_user_guide.pdf> "F1000 User Guide"
+[3]: </assets/images/screenshot_read.png> "Reading Chinese in Calibre"
+[6]: </assets/images/screenshot_calibre.png> "My Calibre"
+[7]: </assets/images/screenshot_amazon_cn.png> "No Purchase at Amazon.cn"
+[8]: <http://www.superbookcity.com/> "超閱網"
+[9]: <http://www.pubu.com.tw/> "PubU"
+[10]: <https://readmoo.com/> "ReadMoo"
+[11]: <http://www.books.com.tw/> "博客來"
+[12]: <http://www.cptw.com.tw/> "臺灣商務"
+[13]: <http://www.gutenberg.org/wiki/Main_Page> "Gutenberg"
+[14]: <https://www.mobileread.com/forums/showthread.php?t=275572> "Calibre - Translate Chinese"
+[15]: <https://apprenticealf.wordpress.com/2012/09/10/drm-removal-tools-for-ebooks/> "DRM Removal"
+[16]: <https://1drv.ms/u/s!Ao8_VAARagMlrSC5Gx-SC7SQMm9j> "國史大綱 - Traditional"
+[17]: <https://1drv.ms/u/s!Ao8_VAARagMlrR_0FW01eEFB9EG7> "國史大綱 - Simplified"
